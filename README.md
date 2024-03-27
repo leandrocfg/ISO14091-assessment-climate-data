@@ -1,6 +1,6 @@
 # ISO14091-assessment-climate-data
 Scripts utilized for processing climate data retrieved from http://pclima.inpe.br/analise/, employed in a climate change risk assessment.
-=============================== ENGLISH ==============================================================
+=============================== ENGLISH ==========================================
 
 The data was manually obtained from the platform "http://pclima.inpe.br/analise/" as automated data retrieval via API was down.
 
@@ -30,7 +30,7 @@ Low Confidence: 0.1 ≤ p-value < 0.2
 Very Low Confidence: p-value ≥ 0.2
 
 
-=============================== PORTUGUESE ==============================================================
+=============================== PORTUGUESE ==========================================
 
 Os dados foram obtidos manualmente na plataforma "http://pclima.inpe.br/analise/" dado que a obtenção de dados automatizada via API estava fora do ar.
 
